@@ -1,5 +1,4 @@
-let e= 1; // we are declaring a variable and assigning 1 to it.
+let e= 1;
+e= 10; 
 
-e= 10; // we are reassigning 
-
-console.log(e) // run the code
+console.log(e); 
