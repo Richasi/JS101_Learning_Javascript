@@ -1,1 +1,1 @@
-https://gemgarden.netlify.app/
+[Visit Gem Garden](https://gemgarden.netlify.app/)
