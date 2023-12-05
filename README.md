@@ -1,1 +1,1 @@
-deployed link::https://gemgarden.netlify.app/
+[Deployed Application](https://gemgarden.netlify.app/)
